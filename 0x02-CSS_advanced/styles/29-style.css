@@ -109,7 +109,6 @@ a:active {
     background-color: var(--color-light-grey);
 }
 
-/*adjust nav bar hover for a horizontal red line*/
 .navbar-menu {
     float: right;
 }
