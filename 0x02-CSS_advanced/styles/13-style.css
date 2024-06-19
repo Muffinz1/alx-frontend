@@ -58,6 +58,7 @@ a:link {
 
 a:visited {
     font-style: italic;
+    color: var(--text-color); 
 }
 
 a:hover {
