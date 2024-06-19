@@ -29,7 +29,7 @@
     /*margin*/
     --section-title-margin: 0;
     /*Section title color*/
-    --section-title-color: var(--color-black)
+    --section-title-color: var(--color-black);
 }
 
 html {
